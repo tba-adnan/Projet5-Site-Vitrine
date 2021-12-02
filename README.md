@@ -1,5 +1,5 @@
 # Projet 5 - Site-Vitrine : 
-✔️ Réalisation d'un site vitrine : 
+✔️ Réalisation d'un Site Vitrine : 
 
 ```
 - index.html
