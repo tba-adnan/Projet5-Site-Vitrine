@@ -3,7 +3,7 @@
 
 ```
 index.html
-product.html
+products.html
 about-us.html
 contact-us.html
 
