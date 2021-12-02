@@ -14,3 +14,4 @@ fonts
 media
 └── (media)
 ```
+- Color Pallet : https://icolorpalette.com/000000_ffcc00_ffee0a_cecdcd_ffffff
