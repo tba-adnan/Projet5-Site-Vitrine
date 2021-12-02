@@ -1,4 +1,4 @@
-# Site-Vitrine-individuell
+# Projet 5 - Site-Vitrine : 
 ✔️ Réalisation d'un site vitrine : 
 
 ```
