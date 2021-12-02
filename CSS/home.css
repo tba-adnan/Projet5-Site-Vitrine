@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+}
+
+.hero {
+    background-image: url("../media/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    display: flex;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 4rem;
+}
+
+.hero p {
+    font-size: 1.3rem;
+    font-weight: 300;
+    margin: 1rem 0;
+}
+
+.hero button {
+    color: white;
+    background-color: #000;
+    border: none;
+    padding: 1rem 2.2rem;
+    font-weight: 1.3rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 2rem 0;
+}
+
+.hero-content {
+    padding: 0 5rem;
+
+}
+
+.btn-product:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}

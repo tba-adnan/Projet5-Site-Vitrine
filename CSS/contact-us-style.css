@@ -1,0 +1,215 @@
+body{
+    background-color: rgba(172, 172, 172, 0.205);
+}
+
+header {
+    width: 100%;
+    padding: 25px 10px;
+  }
+  .list{
+    list-style: none;
+
+    display: inline;
+    padding: 20px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.logo {
+    width: 100px;
+}
+
+
+
+
+
+
+form{
+    box-sizing: border-box;
+    background-color: orange;
+    border: solid 3px;
+    border-radius: 20px;
+    padding-left: 52px;
+   padding-right: 59px;
+   padding-top: 50px;
+   width: 519px;
+   height: 500px;
+   display: flex;   
+ flex-direction: column;
+ justify-content: space-between;
+ text-align: center;
+ 
+   
+}
+
+.form-nom{
+    margin-top: 29px;
+    font-size: 40px;
+    border: solid black ;
+}
+
+.form-email{
+    margin-top: 29px;
+    font-size: 40px;
+border: solid black ;
+}
+.button{
+
+ margin-top: 29px;
+ margin-bottom: 20px;
+ border-radius: 2px;
+ border: solid black;
+
+text-align: center;
+}
+.message{
+    margin-top: 20px;
+    border: solid black;
+ 
+}
+.contacter{
+    font-size: 35px;
+}
+
+
+.right{
+
+ display: flex;
+  flex-wrap: wrap;
+  
+  margin-left: 12px;
+  max-width: 50%;
+  width: 50%;
+  margin-top: 20px;
+
+}
+
+.div-map{ 
+    box-sizing: border-box;
+   background-color: orange;
+   border: solid 3px;
+   border-radius: 20px;
+   padding-left: 52px;
+  padding-right: 59px;
+  padding-top: 50px;
+  width: 200px;
+  height: 200px;
+  display: flex;   
+flex-direction: column;
+justify-content: space-between;
+text-align: center;
+margin-top: 20px;
+
+}
+
+
+.map{
+    height: 90px;
+    width: 90px;
+    text-align: center;
+   
+}
+.tanger{
+
+    font-size: 25px;
+    margin-top: 12px;
+}
+
+
+.div-tele{ 
+    box-sizing: border-box;
+   background-color:orange;
+   border: solid 3px;
+   border-radius: 20px;
+   padding-left: 52px;
+  padding-right: 59px;
+  padding-top: 50px;
+  width: 200px;
+  height: 200px;
+  display: flex;   
+flex-direction: column;
+justify-content: space-between;
+text-align: center;
+margin-top: 20px;
+
+}
+
+
+.tele{
+    height: 90px;
+    width: 90px;
+    text-align: center;
+   
+}
+
+.div-fix{ 
+    box-sizing: border-box;
+   background-color: orange;
+   border: solid 3px;
+   border-radius: 20px;
+   padding-left: 52px;
+  padding-right: 59px;
+  padding-top: 50px;
+  width: 200px;
+  height: 200px;
+  display: flex;   
+flex-direction: column;
+justify-content: space-between;
+text-align: center;
+margin-top: 100px;
+}
+
+
+.fix{
+    height: 90px;
+    width: 90px;
+    text-align: center;
+   
+}
+
+.left{
+    width: 48%;
+    max-width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+ justify-content: space-between;
+ margin-top: 50px;
+ 
+
+}
+
+
+.div-email{ 
+    box-sizing: border-box;
+   background-color: orange;
+   border: solid 3px;
+   border-radius: 20px;
+   padding-left: 52px;
+  padding-right: 59px;
+  padding-top: 50px;
+  width: 200px;
+  height: 200px;
+  display: flex;   
+flex-direction: column;
+justify-content: space-between;
+text-align: center;
+margin-top: 100px;
+}
+
+
+.email-cont{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+   
+}
+
+.mail{
+
+margin-left: -22px;
+}
+
