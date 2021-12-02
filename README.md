@@ -5,7 +5,7 @@
 index.html
 product.html
 about-us.html
-about-us.html
+contact-us.html
 
 CSS
 └── style.css
