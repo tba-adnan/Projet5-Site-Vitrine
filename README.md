@@ -2,16 +2,17 @@
 ✔️ Réalisation d'un site vitrine : 
 
 ```
-index.html
-products.html
-about-us.html
-contact-us.html
+- index.html
+- products.html
+- about-us.html
+- contact-us.html
 
-CSS
+- CSS
 └── style.css
-fonts
+- fonts
 └── medium.ttf
-media
+- media
 └── (media)
 ```
 - Color Pallet : https://icolorpalette.com/000000_ffcc00_ffee0a_cecdcd_ffffff
+- 
