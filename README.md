@@ -15,4 +15,4 @@
 └── (media)
 ```
 - Color Pallet : https://icolorpalette.com/000000_ffcc00_ffee0a_cecdcd_ffffff
-- 
+- Maquette Figma : https://www.figma.com/file/kmcJGYfOaqQOiOcQ314PZ9/Site-Vitrine?node-id=6%3A104
